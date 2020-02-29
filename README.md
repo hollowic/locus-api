@@ -1,4 +1,5 @@
-# Locus
+Locus (Backend)
+=========
 
 ## Getting Started
 
@@ -13,6 +14,14 @@
 
 ## Dependencies
 
-- Node 10.x or above
-- NPM 5.x or above
-- PG 6.x
+- "bcrypt": "^3.0.8",
+- "body-parser": "^1.19.0",
+    - "chalk": "^2.4.2",
+    - "clarifai": "^2.9.1",
+    - "dotenv": "^2.0.0",
+    - "express": "^4.17.1",
+    - "heroku": "^7.38.1",
+    - "morgan": "^1.9.1",
+    - "pg": "^6.4.2",
+    - "pg-native": "^3.0.0",
+    - "socket.io": "^2.3.0"
